@@ -2,5 +2,5 @@
 #include "func2.h"
 void foo2()
 {
-printf("HI\n");
+printf("HIzzz\n");
 }
